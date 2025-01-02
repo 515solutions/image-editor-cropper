@@ -1,6 +1,5 @@
 # image-editor-cropper
 
-[![Build Status](https://circleci.com/gh/image-editor-cropper/image-editor-cropper.svg?style=shield)](https://circleci.com/gh/image-editor-cropper/image-editor-cropper)
 [![Package Version](https://img.shields.io/npm/v/image-editor-cropper.svg)](https://www.npmjs.com/package/image-editor-cropper)
 [![Downloads](https://img.shields.io/npm/dm/image-editor-cropper.svg)](http://npm-stat.com/charts.html?package=image-editor-cropper&author=&from=&to=)
 
