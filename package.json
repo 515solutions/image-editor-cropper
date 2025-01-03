@@ -1,11 +1,16 @@
 {
   "name": "image-editor-cropper",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "An image cropper for React.js / Next.js",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Navroze Brar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/515solutions/image-editor-cropper.git"
+  },
+  "homepage": "https://github.com/515solutions/image-editor-cropper",
   "license": "ISC"
 }

@@ -9,12 +9,6 @@
 npm install image-editor-cropper --save
 ```
 
-or
-
-```shell
-yarn add image-editor-cropper
-```
-
 ### Synchronous
 
 ```javascript
